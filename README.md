@@ -8,4 +8,4 @@
 * **Miguel Alejandro Meléndez Martínez** - [Alejandro9917 :octocat:](https://github.com/Alejandro9917)
 
 ## Capitulo Utiliado para la APP 📙
-Principios SOLID
+Principios ![#f54251]**SOLID**
