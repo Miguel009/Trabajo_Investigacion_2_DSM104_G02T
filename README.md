@@ -7,5 +7,5 @@
 * **Miguel Ángel Flores Reyes** - [Miguel009 :octocat:](https://github.com/Miguel009)
 * **Miguel Alejandro Meléndez Martínez** - [Alejandro9917 :octocat:](https://github.com/Alejandro9917)
 
-##Capitulo Utiliado para la APP 📙
+## Capitulo Utiliado para la APP 📙
 Principios SOLID
